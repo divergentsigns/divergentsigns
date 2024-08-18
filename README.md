@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @divergentsigns
 - 👀 I’m interested in Django, Python, React, Next JS
-- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Django Packages
 - 📫 How to reach me divergentsigns6@gmail.com
 
