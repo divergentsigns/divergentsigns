@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @divergentsigns
+- 👋 Hi, I’m @Azeem
 - 👀 I’m interested in Django, Python, React, Next JS
 - 💞️ I’m looking to collaborate on Django Packages
 - 📫 How to reach me divergentsigns6@gmail.com
